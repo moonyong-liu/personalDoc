@@ -2,3 +2,4 @@
 /* 20170705 */
 1.C program Language,typedef struct const value in "typedef struct" ,can be memset().
 2.STM32 APB1 clk,if APB1 prescaler=1  x1 else x2.
+3.
