@@ -1,7 +1,12 @@
 /* norline knowledge collect */
 /* 20170705 */
 1.C program Language,typedef struct const value in "typedef struct" ,can be memset().
-2.STM32 APB1 clk,if APB1 prescaler=1  x1 else x2.
+2.STM32 APB1 clk,if APB1 prescaler=1  multiple 1 else multiple 2.
 /* 20170710 */
 1.STM32F10x USART DMA Transmit : DMA_Mode_Circular, Do not know how to use
 								 DMA_Mode_Normal, usart TX use this
+/* 20170717*/
+1.STM32 personal .h file can't set in stm32f10x_conf.h, "error in include chain"
+2.STM32 timer TIM1_REMAP to same PIN
+/* 20170725 */
+1.STM32 KEILV5.2 DEBUG mode stop at BKPT 0XAB, because Semihosting Enable

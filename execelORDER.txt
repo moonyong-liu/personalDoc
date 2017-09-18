@@ -1,0 +1,4 @@
+=COLUMN()   获取列号
+=ROW()      获取行号
+=HEX2DEC(XX)
+=DEC2HEX(XX)
