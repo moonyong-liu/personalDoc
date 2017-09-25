@@ -1,0 +1,65 @@
+/**
+  *****************************************************************************
+  * @file    rull.txt
+  * @author  LHw
+  * @version V1.0
+  * @date    2017/09/25
+  * @brief   code ruler
+  *****************************************************************************
+  * @attention
+	* @updateRecord
+	1. add ruler of coding
+	# who: LHw | when: 20170925 | content:
+  *****************************************************************************
+  */
+
+#define AAAA_BBB xxx
+
+tpyedef enmu{
+
+} _RxxTxx,*_pRxxTxx;
+
+
+typedef union{
+
+} _RxxTxx,*_pRxxTxx;
+
+
+typedef struct {
+  int/char/float/double StructVariable1;
+  ...
+  ...
+  ...
+  ...
+} _RxxTxx,*_pRxxTxx;
+
+/* Global Variables ---------------------------------------------------------*/
+int/char/float/double GlobalVariableOne;
+int/char/float/double* PglobalVarialbleTwo;
+inc/char/float/double Global_variable_one;
+inc/char/float/double* P_Global_variable_on;
+/* PUBLIC DECLARATION -------------------------------------------------------*/
+
+/* PUBLIC DEFINITION --------------------------------------------------------*/
+void what_function_two( void parameter_one, void* p_parameter_two ...... )
+{
+	int/char/float/double temporary_variable;
+	int/char/float/double* p_temporary_variable;
+}
+/* PRIVATE DECLARATION ------------------------------------------------------*/
+
+static void  whatFunctionOne( void parameterOne, void* pParameterTwo ....... )
+
+/* PRIVATE DEFINITION -------------------------------------------------------*/
+/**
+  * @brief  
+	* @param  
+	* @param 	
+  * @retval
+  */
+
+static void whatFunctionOne( void parameterOne, void* pParameterTwo ....... )
+{
+  int/char/float/double temporaryVariable;
+	int/char/float/double* pTemporaryVariable;    
+}
