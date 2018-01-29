@@ -10,5 +10,5 @@
 2.STM32 timer TIM1_REMAP to same PIN
 /* 20170725 */
 1.STM32 KEILV5.2 DEBUG mode stop at BKPT 0XAB, because Semihosting Enable
-/* 20170927 */
-1.what 
+/* 20180129 */
+1.STM32F40x, step 1: set the PLL !!! set the FREQUENCY !!!
